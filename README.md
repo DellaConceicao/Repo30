@@ -1,3 +1,3 @@
 # Repo30
 
-## This is a beauti day
+## This is a beautiful day
